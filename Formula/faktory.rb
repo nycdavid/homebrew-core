@@ -1,8 +1,7 @@
 class Faktory < Formula
-  desc "Faktory is a language-agnostic, persistent background job system."
+  desc "A language-agnostic, persistent background job system written in Go."
   homepage "https://github.com/contribsys/faktory"
   url "https://github.com/contribsys/faktory/archive/v0.5.0.tar.gz"
-  version "0.5.0"
   sha256 "388eefa0834ff71803a3353db5ae336e73246e1ca2a5866c218e8172a253fceb"
 
   # depends_on "cmake" => :build
